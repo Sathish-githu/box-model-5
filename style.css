@@ -1,0 +1,56 @@
+.container{
+    height: 500px;
+    width: 500px;
+    border-width: 2px;
+    border-style: solid;
+}
+.box{
+    height: 120px;
+    
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 300px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+   
+}
+    
+.header-2{
+    display: inline-block;
+    margin-bottom:50px;
+    margin-left: 250px
+
+    
+    
+    
+}
+.item{
+    width: 25px;
+    border-width: 2px;
+    border-style: solid;
+    margin:4px;
+}
+
+
+.main{
+    height: 220px;
+
+    margin: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+}
+.footer{
+    height: 80px;
+    margin: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 90px;
+}
